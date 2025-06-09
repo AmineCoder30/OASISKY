@@ -9,9 +9,9 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Adventure Booking | Book Your Next Adventure",
-  description: "Book outdoor adventures, fitness classes, and local tours with ease.",
-    generator: 'v0.dev'
+  title: "oasissky",
+  description: "Book outdoor adventures",
+
 }
 
 export default function RootLayout({
